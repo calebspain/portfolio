@@ -75,6 +75,7 @@ p.lead {
   .list-inline-item i {
     &:hover {
       color: $primary;
+      cursor: pointer;
     }
   }
 }

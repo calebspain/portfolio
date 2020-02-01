@@ -81,6 +81,7 @@ p.lead {
 
 .dev-icons .list-inline-item i:hover {
   color: lightseagreen;
+  cursor: pointer;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -168,7 +169,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: lightseagreen;
+  color: #868e96;
 }
 
 a:hover, a:focus, a:active {
