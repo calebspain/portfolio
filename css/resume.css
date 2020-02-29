@@ -79,6 +79,10 @@ p.lead {
   font-size: 3rem;
 }
 
+.dev-icons .list-inline-item i a {
+  color: #868e96;
+}
+
 .dev-icons .list-inline-item i:hover {
   color: lightseagreen;
   cursor: pointer;
@@ -169,7 +173,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: lightseagreen;
+  color: #868e96;
 }
 
 a:hover, a:focus, a:active {
